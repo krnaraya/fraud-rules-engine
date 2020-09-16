@@ -1,6 +1,0 @@
-{
-  "labels" : [ {
-    "org.kie/Transactions" : "process",
-    "org.kie/TransactionValidationService" : "rules"
-  } ]
-}
